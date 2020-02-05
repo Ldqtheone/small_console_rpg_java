@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Commands"},{"p":"<Unnamed>","l":"DefaultArchetype"},{"p":"<Unnamed>","l":"Game"},{"p":"<Unnamed>","l":"main"},{"p":"<Unnamed>","l":"ThiefArchetype"},{"p":"<Unnamed>","l":"WarriorArchetype"},{"p":"<Unnamed>","l":"WizardArchetype"}]
